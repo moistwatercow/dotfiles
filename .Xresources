@@ -1,0 +1,144 @@
+
+!my x resources ( very cool )
+
+Xft.antialias: 1
+Xft.hinting: 1
+Xft.autohint: 0
+Xft.hintstyle: hintslight
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
+!<===--[(ST) "Atom Onedark" Theme]--====>
+st.font:         JetBrainsMono Nerd Font:style:medium:pixelsize=13
+
+! window padding
+st.borderpx: 20
+
+!- 0.1 to 0.9 = transparency
+st.alpha: 1.0
+
+*background: #181f21
+*foreground: #dadada
+
+! Black + DarkGrey
+*color0:  #22292b
+*color8:  #575e60
+
+! DarkRed + Red
+*color1:  #e06e6e
+*color9:  #ef7d7d
+
+! DarkGreen + Green
+*color2:  #8ccf7e
+*color10: #9bdead
+
+! DarkYellow + Yellow
+*color3:  #e5c76b
+*color11: #f4d67a
+
+! DarkBlue + Blue
+*color4:  #67b0e8
+*color12: #6cb5ed
+
+! DarkMagenta + Magenta
+*color5:  #c47fd5
+*color13: #ce89df
+
+! DarkCyan + Cyan
+*color6:  #6da4cd
+*color14: #67cbe7
+
+! LightGrey + White
+*color7:  #b3b9b8
+*color15: #bdc3c2
+
+
+
+
+
+
+
+!* Gruvbox dark
+!*.color0: #282828
+!*.color1: #cc241d
+!*.color2: #98971a
+!*.color3: #d79921
+!*.color4: #458588
+!*.color5: #b16286
+!*.color6: #689d6a
+!*.color7: #a89984
+!*.color8: #928374
+!*.color9: #fb4934
+!*.color10: #b8bb26
+!*.color11: #fabd2f
+!*.color12: #83a598
+!*.color13: #d3869b
+!*.color14: #8ec07c
+!*.color15: #ebdbb2
+!*.background: #282828
+!*.foreground: #ebdbb2
+!*.cursorColor: white
+
+!* Gruvbox light
+!*.color0: #fbf1c7
+!*.color1: #cc241d
+!*.color2: #98971a
+!*.color3: #d79921
+!*.color4: #458588
+!*.color5: #b16286
+!*.color6: #689d6a
+!*.color7: #7c6f64
+!*.color8: #928374
+!*.color9: #9d0006
+!*.color10: #79740e
+!*.color11: #b57614
+!*.color12: #076678
+!*.color13: #8f3f71
+!*.color14: #427b58
+!*.color15: #3c3836
+!*.background: #fbf1c7
+!*.foreground: #282828
+!*.cursorColor: #282828
+
+!* Dracula
+!*.color0:     #000000
+!*.color1:     #ff5555
+!*.color2:     #50fa7b
+!*.color3:     #f1fa8c
+!*.color4:     #bd93f9
+!*.color5:     #ff79c6
+!*.color6:     #8be9fd
+!*.color7:     #bfbfbf
+!*.color8:     #4d4d4d
+!*.color9:     #ff6e67
+!*.color10:    #5af78e
+!*.color11:    #f4f99d
+!*.color12:    #caa9fa
+!*.color13:    #ff92d0
+!*.color14:    #9aedfe
+!*.color15:    #e6e6e6
+!*.foreground: #f8f8f2
+!*.background: #282a36
+!*.cursorColor: white
+
+!* Everforest
+!*.color0: #2f383e
+!*.color8: #868d80
+!*.color1: #e68183
+!*.color9: #e68183
+!*.color2: #a7c080
+!*.color10: #a7c080
+!*.color3: #dbbc7f
+!*.color11: #dbbc7f
+!*.color4: #7fbbb3
+!*.color12: #7fbbb3
+!*.color5: #d699b6
+!*.color13: #d699b6
+!*.color6: #83c092
+!*.color14: #83c092
+!*.color7: #d3c6aa
+!*.color15: #d3c6aa
+!*.foreground: #d3c6aa
+!*.background: #2f383e
+!*.cursorColor: #d3c6aa
+
